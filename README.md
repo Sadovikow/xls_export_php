@@ -61,4 +61,3 @@ echo '</body></html>';
 
 <b>Всё очень просто, абсолютно любая таблица может спокойно быть экспортирована в Excel!</b>
 
-Более подробно <a href="https://www.redsgroup.ru/workshop/rework/table_in_excel/" title="Экспорт таблицы HTML в Excel">Здесь</a>
